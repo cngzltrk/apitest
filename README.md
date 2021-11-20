@@ -1,6 +1,5 @@
 # Faker Test Api automation
 
-## By Cengiz Altürk
 
 ## Tech
 
